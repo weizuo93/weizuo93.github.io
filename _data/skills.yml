@@ -1,0 +1,14 @@
+- name: Software Engineer Keywords
+  keywords:
+      - C++
+      - Python
+
+- name: Distributed Storage Developer Keywords
+  keywords:
+      - OLAP
+      - Doris
+
+- name: Linux Developer Keywords
+  keywords:
+      - Shell
+      - Git
