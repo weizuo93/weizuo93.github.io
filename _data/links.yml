@@ -1,8 +1,36 @@
-- name: 《Apache Doris Compaction机制解析》
+- name: 《与小米一起“星辰大海，云端漫步”》
+  url: https://mp.weixin.qq.com/s/JwEPNG0gOXMFtWmKjC1hqQ
+  src: publication
+
+- name: 《【Doris全面解析】Doris Compaction机制解析》
   url: https://mp.weixin.qq.com/s?__biz=Mzg5MDEyODc1OA==&mid=2247485136&idx=1&sn=a10850a61f2cb6af42484ba8250566b5&chksm=cfe016c9f8979fdf100776d9103a7960a524e5f16b9ddc6220c0f2efa84661aaa95a9958acff&mpshare=1&scene=1&srcid=0808bis12G4Dm8VoOQsqdLlf&sharer_sharetime=1628363831914&sharer_shareid=e73c5db1a1855b0c30c572ef6a2ff9ad&exportkey=A0XtnzB8DMZiSoUbh4XEW%2B4%3D&pass_ticket=C8XRQnrxOoWZMs7A4udqF70hJuxhuUMe53e04Z0k3zHxwpbpP6%2FXSpbRXfN53vrW&wx_header=0#rd
   src: publication
 
-- name: 《Apache Doris Stream Load原理解析》
+- name: 《【Doris全面解析】Doris Stream Load原理解析》
   url: https://mp.weixin.qq.com/s?__biz=Mzg5MDEyODc1OA==&mid=2247486391&idx=1&sn=4465a781c9c4d8e7c6114cfe67e2985b&chksm=cfe01baef89792b8212fc08e57a37cc484943f30ccd330733b16b61a14eb2935c8d59234885f&mpshare=1&scene=1&srcid=0808HIjhwLReKY1Tv7dPzVlW&sharer_sharetime=1628363817906&sharer_shareid=e73c5db1a1855b0c30c572ef6a2ff9ad&exportkey=A6YO9S%2BHrfnoIoYASfvn9B0%3D&pass_ticket=C8XRQnrxOoWZMs7A4udqF70hJuxhuUMe53e04Z0k3zHxwpbpP6%2FXSpbRXfN53vrW&wx_header=0#rd
   src: publication
 
+- name: 《Doris Stream Load原理解析》
+  url: https://mp.weixin.qq.com/s/zwiza9WXqo8n49PMgaUrKg
+  src: publication
+
+- name: 《深度解析 | Apache Doris 索引机制解析》
+  url: https://mp.weixin.qq.com/s?__biz=Mzg5MDEyODc1OA==&mid=2247498419&idx=1&sn=4704c63213fff9dd449553cb0034f6b9&chksm=cfe3eaaaf89463bcf45f11439f0ed912e17bd959ccad265c8f6ec8f2e330f200b3f6ba120dcc&scene=90&subscene=93&sessionid=1630916147&clicktime=1630916311&enterid=1630916311&ascene=56&devicetype=android-29&version=28000b3b&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A9EVaZUAEodmTy%2Fgf7VuHbc%3D&pass_ticket=ivou4KjKc6BX7S67pKAZgtWJb5IDkLSIkeQqk3OtBbZTFceQXHED7Kh7hb7IUQG%2F&wx_header=1
+  src: publication
+
+- name: 《社区动态 | Apache Doris 社区喜迎 4 位新晋 Committer 成员》
+  url: https://mp.weixin.qq.com/s/bKiEcxEkjskVYlUj1TORXg
+  src: publication
+
+- name: 《社区人物志｜魏祚：道阻且长，行则将至，做有温度的开源项目》
+  url: https://mp.weixin.qq.com/s?__biz=Mzg5MDEyODc1OA==&mid=2247501676&idx=1&sn=0d003f723145165947b6cb9743a90670&chksm=cfe3d775f8945e63b8c0751c628fd15f9e2cd2fecf31f08548f13482c9e8345cf96a76e33d6a&mpshare=1&srcid=11051uaeh5EQPr20SYw9Xqfi&sharer_sharetime=1636097740674&sharer_shareid=876572ac3a500fcb10957f7893898b7d&from=singlemessage&scene=1&subscene=10000&clicktime=1636097780&enterid=1636097780&ascene=1&devicetype=android-30&version=28000f8a&nettype=WIFI&lang=zh_CN&exportkey=A9JmvKIXaC7wkfmocONGPNc%3D&pass_ticket=kA12zR%2FTzz4PXtmNEDA2eza69v91GF%2BoHb9HU2aVRR4LtPHNfFHtrXIoYxSkJDZP&wx_header=1
+  src: publication
+
+- name: 《Apache Doris 在小米集团的运维实践》
+  url: https://mp.weixin.qq.com/s/4RNe1HYitoDwHgXeGGkZOw
+  src: publication
+
+- name: 《干货 | Apache Doris在小米集团的运维实践》
+  url: https://mp.weixin.qq.com/s/DPDmJ2pOizqVe3j2RTBCGA
+  src: publication
+  

@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> 原创文章
+> 与我相关
 
 <ul>
 {% for link in site.data.links %}
